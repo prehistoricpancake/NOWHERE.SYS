@@ -3,6 +3,8 @@ https://claude.ai/chat/e11d01a3-d85d-42a4-8739-c04688b26275
 
 architecture diagram draw it
 
+set up ci/cd in github, testing etc
+
 back_end services
 frontend
 AI bit
